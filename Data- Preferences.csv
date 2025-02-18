@@ -1,0 +1,250 @@
+Age,Location(City),  What is your preferred taste for a smoothie ?,"  How likely are you to try a savoury or umami smoothie flavor, excluding sweet options?  ","  On a scale of 1 to 10, how sweet do you prefer your smoothie to be? ","  For a savoury smoothie, how spicy do you prefer your smoothie to be on a scale of 1 to 10?",  What is your preferred texture/mouthfeel for a smoothie?(Select all that apply),"  On a scale of 1 to 5, how would you describe your preferred viscosity for a smoothie?  ",  What is your preferred flavor for a smoothie? (Select all that apply)  ,  What is your preferred price range for a smoothie?  ,"  How likely are you to try new smoothie flavors that are healthy, filling, and free from preservatives if they were launched in the market?  "
+18-25,Pune ,Sweet,3,6,1,"Thick, Smooth",4: Thick (like yogurt),"Fruity, Berries, Chocolate, Pina Colada, Green veggies",200-250 INR,Likely
+18-25,Pune ,Sweet,1,5,1,"Thick, Smooth",3: Medium (like a milkshake),"Fruity, Berries, Chocolate",200-250 INR,Neutral
+18-25,Trivandrum ,Sweet,2,5,5,Smooth,3: Medium (like a milkshake),"Berries, Chocolate, Pina Colada",150-200 INR,Likely
+18-25,Kolkata ,Savoury,3,2,1,Smooth,2: Thin (like fruit juice),"Fruity, Chocolate",200-250 INR,Neutral
+18-25,Kolkata,Sweet,3,7,3,Smooth,2: Thin (like fruit juice),"Fruity, Berries, Chocolate, Pina Colada",150-200 INR,Neutral
+18-25,Kolkata,Sweet,3,6,3,Smooth,5: Very thick (like a frozen smoothie you eat with a spoon),Fruity,200-250 INR,Likely
+18-25,Pune,Sweet,2,6,3,"Thick, Smooth",3: Medium (like a milkshake),"Fruity, Chocolate, Pina Colada",250-300 INR,Very Likely
+18-25,Pune,Sweet,3,7,4,Thick,3: Medium (like a milkshake),"Fruity, Chocolate",150-200 INR,Likely
+36-45,Surat,Sweet,2,6,4,Thick,4: Thick (like yogurt),"Fruity, Berries, Chocolate, Green veggies",300-350 INR,Very Likely
+18-25,Pune,Savoury,4,4,3,Thick,4: Thick (like yogurt),"Fruity, Chocolate",150-200 INR,Likely
+18-25,Pune,Sweet,4,4,5,Thick,4: Thick (like yogurt),"Fruity, Chocolate",250-300 INR,Very Likely
+36-45,Pune,Sweet,1,2,3,Smooth,3: Medium (like a milkshake),"Pina Colada, Green veggies",150-200 INR,Neutral
+26-35,Surat,Sweet,3,3,4,Grainy,3: Medium (like a milkshake),"Fruity, Berries, Chocolate, Green veggies",200-250 INR,Likely
+18-25,Pune,Sweet,4,4,4,Smooth,3: Medium (like a milkshake),Chocolate,250-300 INR,Likely
+18-25,Pune ,Savoury,3,6,2,"Grainy, Gummy",3: Medium (like a milkshake),Berries,150-200 INR,Likely
+18-25,Pune ,Sweet,1,7,4,"Grainy, Thick",5: Very thick (like a frozen smoothie you eat with a spoon),"Berries, Chocolate",150-200 INR,Likely
+18-25,Sangamner,Sweet,4,5,5,Smooth,3: Medium (like a milkshake),Chocolate,200-250 INR,Likely
+Under 18,Bangladesh ,Savoury,1,2,3,Thick,2: Thin (like fruit juice),Fruity,350-400 INR,Likely
+18-25,Pune,Sweet,3,7,4,Smooth,3: Medium (like a milkshake),"Fruity, Berries",150-200 INR,Very Likely
+18-25,Nasik ,Sweet,3,5,1,"Thick, Smooth",3: Medium (like a milkshake),"Berries, Chocolate, Pina Colada",150-200 INR,Very Likely
+26-35,Mumbai ,Sweet,1,4,1,"Thick, Smooth",4: Thick (like yogurt),"Fruity, Berries, Chocolate, Green veggies",150-200 INR,Very Likely
+18-25,Pune,Sweet,2,6,4,Smooth,3: Medium (like a milkshake),"Fruity, Berries, Chocolate, Pina Colada",150-200 INR,Neutral
+18-25,Pune,Sweet,4,7,7,Smooth,3: Medium (like a milkshake),Pina Colada,200-250 INR,Neutral
+26-35,Pune ,Savoury,5,4,4,Smooth,2: Thin (like fruit juice),"Fruity, Chocolate",150-200 INR,Neutral
+26-35,Pune ,Sweet,3,5,1,"Thick, Smooth",3: Medium (like a milkshake),"Fruity, Berries, Pina Colada, Green veggies",200-250 INR,Very Likely
+26-35,Mumbai ,Sweet,3,2,3,Smooth,4: Thick (like yogurt),Berries,200-250 INR,Likely
+56 and above,Bhopal ,Sweet,3,2,1,"Grainy, Thick",3: Medium (like a milkshake),"Fruity, Berries, Chocolate, Oregano",200-250 INR,Unlikely
+26-35,Mumbai,Savoury,2,5,3,Smooth,2: Thin (like fruit juice),Fruity,150-200 INR,Likely
+56 and above,Mumbai ,Sweet,5,4,1,Smooth,3: Medium (like a milkshake),Berries,150-200 INR,Likely
+36-45,Kanpur,Sweet,7,10,5,Smooth,1: Very thin (like water),"Green veggies, Fruity, Oats, Coffee",200-250 INR,Neutral
+18-25,Jodhpur,Savoury,5,2,1,Grainy,2: Thin (like fruit juice),"Chocolate, Coffee, Fruity, Mango, Oats, Dryfruits",150-200 INR,Likely
+56 and above,Jodhpur,Sweet,8,2,3,Thick,3: Medium (like a milkshake),"Banana, Coffee, Green veggies",250-300 INR,Likely
+36-45,Pune,Sweet,5,5,2,Smooth,3: Medium (like a milkshake),"Oats, Dryfruits, Chocolate, Mango, Oregano, Green veggies, Pina Colada, Berries, Fruity, Coffee, Banana",200-250 INR,Unlikely
+Under 18,Chennai,Savoury,4,8,5,Smooth,2: Thin (like fruit juice),"Fruity, Berries, Pina Colada, Mango, Coffee, Green veggies, Oregano",250-300 INR,Neutral
+Under 18,Nagpur,Sweet,9,7,4,Gummy,5: Very thick (like a frozen smoothie you eat with a spoon),Dryfruits,350-400 INR,Likely
+36-45,Lucknow,Sweet,1,8,4,Smooth,4: Thick (like yogurt),"Fruity, Green veggies, Oregano, Chocolate, Dryfruits, Mango, Banana",250-300 INR,Unlikely
+Under 18,Kolkata,Savoury,8,1,3,Gummy,5: Very thick (like a frozen smoothie you eat with a spoon),"Berries, Pina Colada",350-400 INR,Very Likely
+36-45,Pune,Savoury,7,8,1,Gummy,5: Very thick (like a frozen smoothie you eat with a spoon),"Coffee, Fruity, Oats, Mango, Banana, Green veggies, Dryfruits, Berries, Oregano, Chocolate, Pina Colada",200-250 INR,Unlikely
+46-55,Indore,Sweet,1,3,3,Thick,5: Very thick (like a frozen smoothie you eat with a spoon),"Chocolate, Fruity, Oats, Green veggies, Berries, Coffee",250-300 INR,Unlikely
+26-35,Indore,Sweet,2,4,5,Gummy,2: Thin (like fruit juice),"Berries, Coffee, Dryfruits, Oregano, Pina Colada, Banana",300-350 INR,Unlikely
+36-45,Ahmedabad,Savoury,6,6,1,Grainy,4: Thick (like yogurt),"Dryfruits, Mango, Green veggies, Oats, Oregano, Chocolate, Banana",300-350 INR,Very Unlikely
+18-25,Chandigarh,Sweet,7,3,3,Thick,3: Medium (like a milkshake),"Dryfruits, Berries, Oregano, Pina Colada",300-350 INR,Unlikely
+56 and above,Chennai,Savoury,10,3,3,Thick,5: Very thick (like a frozen smoothie you eat with a spoon),"Chocolate, Mango, Banana",250-300 INR,Very Unlikely
+26-35,Jodhpur,Sweet,1,4,5,Thick,3: Medium (like a milkshake),"Mango, Green veggies",200-250 INR,Neutral
+56 and above,Jodhpur,Sweet,5,7,5,Thick,1: Very thin (like water),"Oregano, Coffee",200-250 INR,Very Unlikely
+Under 18,Nashik,Sweet,10,10,4,Grainy,4: Thick (like yogurt),"Banana, Chocolate, Oregano, Dryfruits, Berries",250-300 INR,Very Unlikely
+46-55,Baroda,Sweet,5,5,5,Smooth,3: Medium (like a milkshake),"Fruity, Berries, Coffee, Chocolate",300-350 INR,Unlikely
+Under 18,Patna,Sweet,8,6,4,Thick,1: Very thin (like water),"Coffee, Green veggies, Dryfruits, Oats, Chocolate, Pina Colada, Banana, Berries, Fruity",350-400 INR,Unlikely
+36-45,Bangalore,Savoury,6,2,4,Smooth,5: Very thick (like a frozen smoothie you eat with a spoon),"Oregano, Mango, Green veggies, Fruity, Berries, Chocolate, Coffee, Oats, Dryfruits, Banana, Pina Colada",300-350 INR,Likely
+18-25,Surat,Savoury,1,6,2,Grainy,2: Thin (like fruit juice),"Fruity, Oregano, Coffee, Oats, Berries, Green veggies",250-300 INR,Neutral
+56 and above,Lucknow,Sweet,1,9,3,Thick,3: Medium (like a milkshake),"Oats, Green veggies, Oregano, Berries, Fruity, Banana, Chocolate, Mango, Coffee, Dryfruits, Pina Colada",300-350 INR,Very Likely
+56 and above,Delhi,Sweet,7,9,3,Gummy,3: Medium (like a milkshake),"Pina Colada, Berries, Coffee, Green veggies, Fruity, Oregano, Mango, Chocolate, Banana, Oats",300-350 INR,Very Likely
+Under 18,Jaipur,Savoury,9,10,4,Gummy,1: Very thin (like water),"Berries, Green veggies, Pina Colada, Mango, Coffee, Chocolate, Oats, Fruity, Banana, Dryfruits, Oregano",250-300 INR,Unlikely
+Under 18,Chennai,Sweet,3,1,5,Thick,4: Thick (like yogurt),"Mango, Berries",250-300 INR,Unlikely
+18-25,Delhi,Savoury,7,10,2,Gummy,5: Very thick (like a frozen smoothie you eat with a spoon),"Fruity, Green veggies, Oregano",150-200 INR,Unlikely
+18-25,Nagpur,Savoury,8,1,4,Thick,1: Very thin (like water),"Oats, Chocolate, Pina Colada, Banana, Coffee",350-400 INR,Very Likely
+56 and above,Ahmedabad,Savoury,9,8,1,Smooth,1: Very thin (like water),"Banana, Pina Colada, Coffee, Fruity, Oregano, Berries",150-200 INR,Very Likely
+18-25,Kochi,Savoury,3,9,3,Grainy,1: Very thin (like water),"Mango, Berries, Green veggies, Coffee, Banana, Oats, Oregano, Fruity, Chocolate",200-250 INR,Likely
+46-55,Baroda,Savoury,10,2,2,Grainy,5: Very thick (like a frozen smoothie you eat with a spoon),Pina Colada,200-250 INR,Very Unlikely
+Under 18,Kolkata,Savoury,10,7,3,Gummy,1: Very thin (like water),"Dryfruits, Pina Colada",150-200 INR,Very Unlikely
+56 and above,Baroda,Sweet,6,4,3,Grainy,2: Thin (like fruit juice),"Banana, Pina Colada, Oats, Fruity, Berries, Coffee, Dryfruits, Mango",300-350 INR,Likely
+46-55,Ahmedabad,Sweet,8,1,5,Grainy,3: Medium (like a milkshake),"Mango, Green veggies, Oats, Fruity, Dryfruits, Coffee, Berries",150-200 INR,Unlikely
+Under 18,Kanpur,Sweet,5,9,5,Grainy,4: Thick (like yogurt),"Green veggies, Chocolate, Banana, Oats, Berries, Mango, Pina Colada, Oregano",250-300 INR,Unlikely
+26-35,Indore,Sweet,4,5,1,Gummy,4: Thick (like yogurt),"Dryfruits, Oats, Fruity, Banana, Pina Colada, Coffee, Green veggies, Chocolate, Mango",200-250 INR,Very Likely
+36-45,Chennai,Savoury,6,5,5,Grainy,2: Thin (like fruit juice),"Dryfruits, Oregano, Coffee, Mango, Fruity, Pina Colada, Berries, Chocolate, Green veggies, Oats, Banana",150-200 INR,Likely
+56 and above,Pune,Sweet,5,2,2,Gummy,4: Thick (like yogurt),"Berries, Pina Colada, Banana, Dryfruits, Coffee, Chocolate",350-400 INR,Neutral
+46-55,Hyderabad,Sweet,5,4,4,Thick,5: Very thick (like a frozen smoothie you eat with a spoon),"Pina Colada, Berries, Banana",350-400 INR,Very Unlikely
+26-35,Chennai,Savoury,5,10,1,Smooth,3: Medium (like a milkshake),"Berries, Banana, Oats, Pina Colada, Coffee",350-400 INR,Very Likely
+36-45,Patna,Sweet,7,8,1,Thick,2: Thin (like fruit juice),"Oats, Oregano, Pina Colada, Berries, Mango, Fruity, Banana, Dryfruits, Chocolate, Coffee, Green veggies",200-250 INR,Very Likely
+Under 18,Chandigarh,Savoury,2,2,2,Gummy,3: Medium (like a milkshake),"Fruity, Oats, Dryfruits, Chocolate, Green veggies, Banana, Mango, Pina Colada",300-350 INR,Very Likely
+18-25,Baroda,Savoury,1,8,3,Thick,3: Medium (like a milkshake),"Dryfruits, Banana, Oregano",200-250 INR,Very Unlikely
+18-25,Mumbai,Sweet,6,5,5,Grainy,3: Medium (like a milkshake),"Mango, Coffee, Green veggies, Oregano, Chocolate, Dryfruits",350-400 INR,Neutral
+Under 18,Baroda,Savoury,5,8,5,Thick,4: Thick (like yogurt),"Chocolate, Mango, Dryfruits, Coffee, Oregano, Pina Colada, Green veggies",200-250 INR,Very Likely
+26-35,Lucknow,Sweet,8,7,3,Grainy,5: Very thick (like a frozen smoothie you eat with a spoon),"Berries, Mango, Oregano, Oats, Dryfruits, Coffee, Fruity, Chocolate, Green veggies, Banana, Pina Colada",300-350 INR,Very Likely
+26-35,Mumbai,Sweet,4,6,2,Smooth,3: Medium (like a milkshake),"Chocolate, Green veggies, Berries, Banana, Oats, Oregano, Dryfruits, Fruity",300-350 INR,Likely
+18-25,Nashik,Savoury,9,8,1,Thick,4: Thick (like yogurt),"Coffee, Oregano, Green veggies, Chocolate, Pina Colada, Dryfruits",250-300 INR,Unlikely
+26-35,Ahmedabad,Savoury,2,6,4,Grainy,3: Medium (like a milkshake),"Pina Colada, Chocolate",300-350 INR,Neutral
+Under 18,Baroda,Savoury,2,9,1,Grainy,2: Thin (like fruit juice),"Pina Colada, Oregano, Green veggies",150-200 INR,Very Likely
+36-45,Kolkata,Sweet,7,5,2,Thick,5: Very thick (like a frozen smoothie you eat with a spoon),"Coffee, Mango, Berries, Banana, Oats, Pina Colada, Oregano",200-250 INR,Likely
+36-45,Kochi,Sweet,5,1,2,Gummy,1: Very thin (like water),"Oregano, Berries, Pina Colada, Dryfruits, Fruity, Oats, Mango",350-400 INR,Likely
+26-35,Jodhpur,Sweet,6,4,4,Smooth,2: Thin (like fruit juice),Fruity,250-300 INR,Very Likely
+18-25,Indore,Savoury,2,5,3,Smooth,5: Very thick (like a frozen smoothie you eat with a spoon),"Oats, Coffee",200-250 INR,Neutral
+36-45,Delhi,Savoury,5,7,2,Thick,4: Thick (like yogurt),"Banana, Dryfruits, Oregano, Pina Colada, Mango, Berries, Coffee, Green veggies, Oats, Chocolate, Fruity",350-400 INR,Neutral
+46-55,Lucknow,Sweet,3,7,2,Smooth,1: Very thin (like water),"Oats, Berries, Green veggies, Fruity, Coffee, Pina Colada, Chocolate, Mango",300-350 INR,Unlikely
+26-35,Nagpur,Sweet,4,10,4,Gummy,2: Thin (like fruit juice),"Dryfruits, Pina Colada",150-200 INR,Very Unlikely
+56 and above,Patna,Savoury,7,2,5,Thick,2: Thin (like fruit juice),"Oats, Dryfruits",350-400 INR,Neutral
+46-55,Baroda,Savoury,1,5,4,Grainy,2: Thin (like fruit juice),Dryfruits,150-200 INR,Unlikely
+Under 18,Kochi,Sweet,2,4,1,Grainy,1: Very thin (like water),"Fruity, Banana",200-250 INR,Likely
+36-45,Surat,Sweet,3,2,1,Thick,5: Very thick (like a frozen smoothie you eat with a spoon),"Banana, Chocolate, Oregano, Dryfruits, Oats, Green veggies, Berries, Coffee, Fruity, Pina Colada, Mango",150-200 INR,Neutral
+46-55,Jodhpur,Sweet,6,7,5,Thick,3: Medium (like a milkshake),"Mango, Green veggies, Oregano, Coffee, Banana, Oats, Fruity",250-300 INR,Very Likely
+26-35,Jodhpur,Savoury,1,8,2,Grainy,2: Thin (like fruit juice),"Pina Colada, Oats, Dryfruits, Mango, Coffee, Fruity, Green veggies, Chocolate, Berries",300-350 INR,Neutral
+36-45,Pune,Savoury,6,9,2,Gummy,5: Very thick (like a frozen smoothie you eat with a spoon),"Chocolate, Green veggies, Oats",300-350 INR,Very Unlikely
+56 and above,Kochi,Savoury,10,1,2,Gummy,5: Very thick (like a frozen smoothie you eat with a spoon),"Mango, Oregano, Chocolate",200-250 INR,Neutral
+Under 18,Lucknow,Savoury,9,1,5,Gummy,5: Very thick (like a frozen smoothie you eat with a spoon),"Pina Colada, Dryfruits, Oregano, Chocolate, Berries, Oats, Fruity, Mango, Coffee, Banana, Green veggies",200-250 INR,Unlikely
+Under 18,Nashik,Sweet,7,3,1,Thick,5: Very thick (like a frozen smoothie you eat with a spoon),"Dryfruits, Oats, Berries, Green veggies, Mango, Pina Colada",350-400 INR,Very Likely
+Under 18,Nagpur,Savoury,1,2,4,Smooth,3: Medium (like a milkshake),"Pina Colada, Banana, Fruity, Oregano, Mango, Dryfruits, Oats, Green veggies, Berries, Coffee",250-300 INR,Very Unlikely
+Under 18,Jodhpur,Sweet,3,3,3,Smooth,1: Very thin (like water),"Fruity, Mango, Green veggies, Oregano",250-300 INR,Neutral
+46-55,Chennai,Savoury,5,4,2,Smooth,3: Medium (like a milkshake),"Mango, Fruity, Oats, Oregano, Green veggies, Chocolate, Pina Colada, Dryfruits, Berries, Coffee, Banana",150-200 INR,Very Unlikely
+46-55,Kanpur,Sweet,6,9,1,Gummy,3: Medium (like a milkshake),"Green veggies, Mango, Banana, Oats",200-250 INR,Very Unlikely
+Under 18,Baroda,Sweet,4,4,5,Gummy,2: Thin (like fruit juice),Chocolate,200-250 INR,Very Likely
+46-55,Kanpur,Sweet,8,2,3,Gummy,2: Thin (like fruit juice),"Fruity, Oregano, Berries, Mango, Dryfruits, Chocolate, Oats, Pina Colada",200-250 INR,Neutral
+56 and above,Patna,Sweet,6,2,2,Thick,5: Very thick (like a frozen smoothie you eat with a spoon),"Coffee, Pina Colada, Dryfruits, Banana, Fruity, Oregano, Mango, Berries, Green veggies, Chocolate, Oats",150-200 INR,Neutral
+36-45,Lucknow,Sweet,4,1,5,Thick,2: Thin (like fruit juice),"Coffee, Banana, Berries, Dryfruits, Chocolate, Pina Colada, Oats, Fruity, Mango, Oregano",150-200 INR,Neutral
+36-45,Hyderabad,Sweet,5,10,4,Gummy,4: Thick (like yogurt),"Berries, Chocolate, Pina Colada, Banana, Oats, Mango, Fruity, Dryfruits, Coffee",200-250 INR,Likely
+46-55,Mumbai,Savoury,2,4,5,Grainy,4: Thick (like yogurt),"Berries, Mango, Dryfruits, Fruity, Coffee, Banana, Chocolate, Oregano, Green veggies, Oats, Pina Colada",350-400 INR,Unlikely
+46-55,Chennai,Sweet,6,7,2,Gummy,2: Thin (like fruit juice),"Banana, Fruity, Oregano, Pina Colada",150-200 INR,Very Unlikely
+56 and above,Kolkata,Savoury,5,4,4,Smooth,2: Thin (like fruit juice),"Chocolate, Berries, Mango, Coffee, Green veggies",150-200 INR,Very Likely
+Under 18,Ahmedabad,Savoury,8,1,1,Smooth,2: Thin (like fruit juice),"Mango, Fruity, Berries, Banana, Oats, Coffee",150-200 INR,Neutral
+18-25,Lucknow,Savoury,4,1,1,Thick,3: Medium (like a milkshake),"Mango, Berries, Oats, Dryfruits, Green veggies, Banana, Oregano, Coffee, Pina Colada, Fruity, Chocolate",300-350 INR,Neutral
+18-25,Nashik,Savoury,7,10,1,Gummy,1: Very thin (like water),"Berries, Oregano, Chocolate, Fruity",200-250 INR,Neutral
+46-55,Lucknow,Sweet,6,6,2,Thick,3: Medium (like a milkshake),"Oregano, Fruity, Berries, Coffee, Oats, Green veggies, Mango",150-200 INR,Unlikely
+18-25,Lucknow,Sweet,7,8,3,Gummy,3: Medium (like a milkshake),"Fruity, Mango, Oregano, Pina Colada, Oats, Berries, Chocolate, Banana, Dryfruits, Green veggies",150-200 INR,Neutral
+46-55,Patna,Savoury,5,9,1,Gummy,3: Medium (like a milkshake),"Pina Colada, Coffee, Oats, Banana, Fruity, Green veggies, Berries, Dryfruits",200-250 INR,Likely
+36-45,Chandigarh,Savoury,4,5,5,Grainy,3: Medium (like a milkshake),"Coffee, Green veggies, Mango",300-350 INR,Very Unlikely
+Under 18,Pune,Savoury,2,4,3,Thick,2: Thin (like fruit juice),"Chocolate, Fruity, Oats, Mango, Dryfruits, Green veggies, Coffee, Oregano, Banana, Berries",150-200 INR,Very Likely
+18-25,Indore,Sweet,1,7,4,Grainy,4: Thick (like yogurt),"Chocolate, Berries, Pina Colada",250-300 INR,Very Unlikely
+18-25,Delhi,Sweet,7,3,4,Thick,5: Very thick (like a frozen smoothie you eat with a spoon),"Dryfruits, Green veggies, Chocolate, Oats, Berries",150-200 INR,Very Likely
+36-45,Hyderabad,Sweet,3,3,5,Grainy,4: Thick (like yogurt),"Berries, Green veggies, Banana, Coffee",300-350 INR,Unlikely
+36-45,Kanpur,Savoury,5,8,1,Gummy,4: Thick (like yogurt),"Oregano, Oats, Berries, Banana, Pina Colada, Fruity, Chocolate",300-350 INR,Unlikely
+18-25,Kochi,Sweet,8,7,5,Thick,3: Medium (like a milkshake),"Dryfruits, Green veggies, Oats",350-400 INR,Very Unlikely
+Under 18,Bangalore,Savoury,10,7,1,Gummy,3: Medium (like a milkshake),"Coffee, Fruity, Pina Colada, Oats, Mango, Dryfruits, Chocolate, Oregano, Berries, Green veggies, Banana",250-300 INR,Likely
+Under 18,Baroda,Savoury,4,8,4,Thick,4: Thick (like yogurt),"Oats, Dryfruits, Berries, Chocolate, Pina Colada, Green veggies, Oregano",350-400 INR,Unlikely
+36-45,Patna,Sweet,6,8,2,Thick,3: Medium (like a milkshake),"Oats, Fruity, Banana, Dryfruits",200-250 INR,Neutral
+56 and above,Mumbai,Sweet,3,9,1,Gummy,4: Thick (like yogurt),"Berries, Banana, Green veggies, Chocolate, Pina Colada, Oregano, Coffee, Dryfruits",300-350 INR,Very Unlikely
+Under 18,Hyderabad,Savoury,7,6,3,Smooth,3: Medium (like a milkshake),"Fruity, Dryfruits, Banana, Coffee",200-250 INR,Very Likely
+46-55,Surat,Sweet,6,9,1,Gummy,5: Very thick (like a frozen smoothie you eat with a spoon),"Coffee, Chocolate",300-350 INR,Very Likely
+36-45,Kolkata,Savoury,10,1,5,Smooth,4: Thick (like yogurt),Chocolate,250-300 INR,Very Likely
+18-25,Nashik,Savoury,1,9,5,Smooth,3: Medium (like a milkshake),"Oats, Mango, Oregano, Dryfruits, Pina Colada, Berries, Coffee, Fruity, Chocolate, Green veggies",300-350 INR,Very Unlikely
+46-55,Lucknow,Sweet,4,10,5,Gummy,2: Thin (like fruit juice),"Green veggies, Fruity, Chocolate, Pina Colada, Banana",200-250 INR,Unlikely
+46-55,Chandigarh,Savoury,7,4,4,Smooth,2: Thin (like fruit juice),"Coffee, Fruity, Green veggies, Banana, Oregano",150-200 INR,Very Likely
+46-55,Nashik,Savoury,1,5,1,Thick,3: Medium (like a milkshake),Oregano,250-300 INR,Unlikely
+26-35,Kanpur,Savoury,5,10,1,Smooth,3: Medium (like a milkshake),"Pina Colada, Mango, Oats, Fruity, Banana, Coffee, Chocolate, Dryfruits",350-400 INR,Very Likely
+18-25,Kolkata,Sweet,8,4,1,Gummy,1: Very thin (like water),"Mango, Pina Colada",350-400 INR,Very Unlikely
+46-55,Hyderabad,Sweet,5,4,5,Grainy,4: Thick (like yogurt),"Mango, Oregano, Fruity, Coffee, Banana, Chocolate",300-350 INR,Very Likely
+56 and above,Patna,Savoury,5,8,2,Grainy,4: Thick (like yogurt),"Pina Colada, Chocolate, Berries",250-300 INR,Very Unlikely
+56 and above,Chennai,Savoury,9,3,1,Smooth,5: Very thick (like a frozen smoothie you eat with a spoon),"Chocolate, Green veggies, Fruity",300-350 INR,Very Likely
+36-45,Nagpur,Savoury,3,6,3,Grainy,4: Thick (like yogurt),"Chocolate, Fruity, Banana, Berries, Oats, Mango, Green veggies, Dryfruits, Oregano, Pina Colada",150-200 INR,Very Unlikely
+26-35,Pune,Sweet,8,2,3,Gummy,2: Thin (like fruit juice),"Dryfruits, Green veggies, Mango, Oregano",250-300 INR,Very Likely
+18-25,Baroda,Sweet,1,2,2,Thick,1: Very thin (like water),"Coffee, Fruity, Dryfruits, Chocolate, Banana",350-400 INR,Neutral
+36-45,Bangalore,Sweet,7,4,2,Smooth,3: Medium (like a milkshake),"Green veggies, Fruity, Berries, Dryfruits, Pina Colada, Banana, Oats, Coffee, Chocolate, Mango, Oregano",300-350 INR,Very Likely
+Under 18,Chennai,Savoury,3,3,3,Smooth,3: Medium (like a milkshake),"Green veggies, Mango, Dryfruits, Pina Colada, Chocolate, Oats, Banana, Berries",300-350 INR,Neutral
+Under 18,Jodhpur,Sweet,6,4,1,Smooth,1: Very thin (like water),"Dryfruits, Oregano, Oats, Pina Colada",350-400 INR,Very Likely
+18-25,Kanpur,Savoury,7,3,1,Gummy,5: Very thick (like a frozen smoothie you eat with a spoon),"Dryfruits, Oregano, Oats, Mango, Chocolate, Coffee, Pina Colada, Banana, Green veggies",250-300 INR,Very Likely
+18-25,Nashik,Savoury,6,2,1,Grainy,1: Very thin (like water),"Banana, Mango, Oats, Green veggies, Oregano, Fruity, Dryfruits, Berries, Coffee, Chocolate",350-400 INR,Likely
+26-35,Nashik,Sweet,8,2,5,Gummy,2: Thin (like fruit juice),"Chocolate, Fruity, Banana, Berries, Green veggies, Coffee, Oregano, Mango, Pina Colada, Oats, Dryfruits",150-200 INR,Very Unlikely
+36-45,Bangalore,Savoury,4,10,5,Grainy,5: Very thick (like a frozen smoothie you eat with a spoon),"Pina Colada, Fruity, Chocolate, Coffee, Banana, Green veggies, Mango, Oregano, Dryfruits, Berries, Oats",250-300 INR,Neutral
+56 and above,Surat,Sweet,9,6,2,Gummy,3: Medium (like a milkshake),"Green veggies, Pina Colada",350-400 INR,Likely
+46-55,Hyderabad,Sweet,8,10,1,Smooth,2: Thin (like fruit juice),"Oregano, Green veggies, Dryfruits",300-350 INR,Unlikely
+18-25,Hyderabad,Savoury,5,4,5,Smooth,1: Very thin (like water),"Berries, Oregano",250-300 INR,Likely
+18-25,Delhi,Sweet,10,3,1,Gummy,3: Medium (like a milkshake),"Dryfruits, Fruity, Banana, Berries, Chocolate",150-200 INR,Neutral
+46-55,Mumbai,Sweet,2,2,1,Smooth,2: Thin (like fruit juice),"Fruity, Oregano, Berries, Green veggies, Oats",300-350 INR,Unlikely
+36-45,Chandigarh,Savoury,9,4,5,Thick,3: Medium (like a milkshake),"Chocolate, Pina Colada, Banana, Coffee, Oregano, Dryfruits, Fruity, Green veggies, Mango, Berries, Oats",350-400 INR,Likely
+56 and above,Kolkata,Savoury,7,3,3,Grainy,5: Very thick (like a frozen smoothie you eat with a spoon),"Berries, Coffee, Pina Colada, Green veggies, Chocolate, Banana, Oregano",200-250 INR,Very Unlikely
+36-45,Surat,Savoury,1,8,3,Thick,5: Very thick (like a frozen smoothie you eat with a spoon),"Banana, Fruity, Dryfruits, Oregano, Pina Colada, Berries, Mango, Chocolate, Coffee, Green veggies",300-350 INR,Very Likely
+18-25,Kanpur,Sweet,7,4,5,Thick,1: Very thin (like water),"Green veggies, Chocolate, Fruity, Oregano, Dryfruits, Mango",200-250 INR,Likely
+56 and above,Hyderabad,Savoury,6,4,1,Grainy,3: Medium (like a milkshake),"Chocolate, Banana, Berries, Oregano, Green veggies",350-400 INR,Very Unlikely
+Under 18,Delhi,Savoury,5,6,2,Thick,4: Thick (like yogurt),"Green veggies, Fruity, Banana",200-250 INR,Unlikely
+18-25,Nashik,Savoury,7,6,5,Thick,5: Very thick (like a frozen smoothie you eat with a spoon),"Fruity, Mango",250-300 INR,Neutral
+56 and above,Pune,Sweet,9,6,5,Gummy,2: Thin (like fruit juice),"Green veggies, Dryfruits, Oats, Coffee",350-400 INR,Likely
+36-45,Chennai,Savoury,4,1,5,Smooth,2: Thin (like fruit juice),"Fruity, Dryfruits, Oats, Chocolate, Coffee",200-250 INR,Very Likely
+56 and above,Lucknow,Sweet,4,6,5,Grainy,5: Very thick (like a frozen smoothie you eat with a spoon),"Pina Colada, Berries, Dryfruits, Oats, Banana, Chocolate, Oregano, Fruity, Coffee",150-200 INR,Neutral
+56 and above,Kolkata,Sweet,7,7,3,Thick,4: Thick (like yogurt),"Dryfruits, Oregano, Green veggies, Mango, Pina Colada, Coffee, Oats, Fruity",350-400 INR,Very Likely
+26-35,Bangalore,Savoury,4,3,4,Gummy,4: Thick (like yogurt),Oats,250-300 INR,Likely
+46-55,Hyderabad,Savoury,3,5,1,Thick,4: Thick (like yogurt),"Fruity, Dryfruits, Green veggies, Berries, Oats, Coffee, Banana",350-400 INR,Neutral
+56 and above,Patna,Sweet,4,4,5,Grainy,3: Medium (like a milkshake),"Mango, Berries, Pina Colada, Dryfruits, Green veggies, Chocolate",350-400 INR,Likely
+26-35,Pune,Savoury,2,10,3,Gummy,4: Thick (like yogurt),"Coffee, Green veggies",250-300 INR,Neutral
+36-45,Kanpur,Sweet,2,9,2,Grainy,3: Medium (like a milkshake),"Pina Colada, Berries, Fruity, Oregano, Coffee, Banana, Green veggies, Oats, Dryfruits, Mango, Chocolate",200-250 INR,Very Unlikely
+46-55,Kanpur,Savoury,10,7,4,Thick,2: Thin (like fruit juice),"Mango, Berries, Banana, Oregano, Oats, Fruity, Chocolate, Dryfruits, Pina Colada, Green veggies, Coffee",350-400 INR,Likely
+26-35,Surat,Savoury,1,2,5,Smooth,5: Very thick (like a frozen smoothie you eat with a spoon),"Green veggies, Chocolate, Coffee, Pina Colada, Berries, Oregano, Fruity, Dryfruits",350-400 INR,Very Unlikely
+Under 18,Kanpur,Sweet,9,9,5,Gummy,5: Very thick (like a frozen smoothie you eat with a spoon),"Oats, Mango, Fruity, Banana, Dryfruits, Coffee, Oregano",350-400 INR,Very Likely
+26-35,Ahmedabad,Savoury,10,7,5,Grainy,4: Thick (like yogurt),"Berries, Pina Colada, Oats, Dryfruits, Banana",350-400 INR,Unlikely
+56 and above,Baroda,Sweet,7,8,1,Thick,2: Thin (like fruit juice),"Fruity, Berries",200-250 INR,Neutral
+36-45,Bangalore,Savoury,7,3,5,Smooth,4: Thick (like yogurt),"Banana, Fruity, Dryfruits, Mango",250-300 INR,Very Likely
+18-25,Chandigarh,Sweet,6,8,4,Gummy,3: Medium (like a milkshake),"Chocolate, Mango, Pina Colada, Fruity, Coffee, Green veggies, Dryfruits, Oats, Banana",250-300 INR,Neutral
+46-55,Pune,Savoury,7,5,3,Gummy,4: Thick (like yogurt),"Oats, Fruity, Dryfruits, Green veggies, Chocolate, Berries, Mango, Pina Colada, Oregano",150-200 INR,Very Unlikely
+26-35,Bangalore,Savoury,8,2,3,Thick,5: Very thick (like a frozen smoothie you eat with a spoon),"Banana, Mango, Pina Colada",200-250 INR,Unlikely
+26-35,Baroda,Savoury,8,1,4,Grainy,4: Thick (like yogurt),Oats,350-400 INR,Very Unlikely
+36-45,Mumbai,Sweet,4,3,4,Thick,5: Very thick (like a frozen smoothie you eat with a spoon),"Mango, Dryfruits, Oats",350-400 INR,Very Unlikely
+18-25,Indore,Sweet,8,5,4,Gummy,1: Very thin (like water),"Banana, Fruity, Oregano",250-300 INR,Very Unlikely
+56 and above,Patna,Sweet,5,9,1,Grainy,4: Thick (like yogurt),"Oregano, Dryfruits, Chocolate",150-200 INR,Very Likely
+18-25,Ahmedabad,Savoury,10,10,1,Smooth,2: Thin (like fruit juice),"Mango, Oregano, Pina Colada, Coffee",150-200 INR,Very Likely
+46-55,Ahmedabad,Sweet,10,9,5,Thick,1: Very thin (like water),"Oregano, Pina Colada, Green veggies, Mango, Oats, Banana, Berries, Coffee, Chocolate",150-200 INR,Neutral
+Under 18,Ahmedabad,Savoury,4,6,4,Smooth,4: Thick (like yogurt),"Coffee, Dryfruits, Berries, Oats",250-300 INR,Very Unlikely
+18-25,Chennai,Sweet,7,4,1,Grainy,2: Thin (like fruit juice),Berries,350-400 INR,Very Unlikely
+Under 18,Jaipur,Savoury,3,9,1,Smooth,5: Very thick (like a frozen smoothie you eat with a spoon),"Fruity, Berries, Chocolate, Coffee, Banana, Pina Colada, Green veggies, Oats, Dryfruits, Mango, Oregano",250-300 INR,Unlikely
+36-45,Lucknow,Sweet,9,10,4,Grainy,2: Thin (like fruit juice),"Banana, Dryfruits, Green veggies, Coffee, Oregano",300-350 INR,Very Unlikely
+36-45,Mumbai,Savoury,8,2,1,Smooth,3: Medium (like a milkshake),"Oregano, Berries, Green veggies, Pina Colada, Coffee, Mango",300-350 INR,Very Unlikely
+36-45,Indore,Savoury,5,2,2,Smooth,1: Very thin (like water),"Coffee, Pina Colada, Dryfruits, Mango, Banana, Oats, Chocolate, Green veggies, Oregano, Berries, Fruity",150-200 INR,Very Likely
+Under 18,Hyderabad,Sweet,5,3,2,Smooth,3: Medium (like a milkshake),"Berries, Mango, Green veggies, Pina Colada, Coffee, Chocolate, Banana",300-350 INR,Very Unlikely
+26-35,Chennai,Sweet,3,10,1,Smooth,4: Thick (like yogurt),"Dryfruits, Oats, Fruity, Chocolate, Oregano, Banana, Coffee, Mango, Berries, Green veggies",200-250 INR,Very Unlikely
+46-55,Chandigarh,Savoury,9,1,5,Thick,4: Thick (like yogurt),"Green veggies, Banana, Pina Colada, Mango, Chocolate, Oregano, Coffee, Berries, Fruity",200-250 INR,Neutral
+56 and above,Jodhpur,Sweet,4,2,3,Thick,2: Thin (like fruit juice),"Pina Colada, Coffee, Chocolate, Oats, Oregano, Dryfruits, Banana",150-200 INR,Unlikely
+Under 18,Mumbai,Savoury,4,7,5,Gummy,5: Very thick (like a frozen smoothie you eat with a spoon),"Dryfruits, Mango, Fruity, Coffee, Oregano, Pina Colada",200-250 INR,Very Unlikely
+18-25,Surat,Savoury,9,10,1,Thick,4: Thick (like yogurt),"Banana, Fruity, Chocolate, Mango",250-300 INR,Very Unlikely
+18-25,Nashik,Sweet,6,8,4,Gummy,2: Thin (like fruit juice),"Oregano, Dryfruits, Mango, Green veggies, Fruity, Berries, Banana, Chocolate, Pina Colada, Coffee",250-300 INR,Very Likely
+46-55,Ahmedabad,Sweet,2,10,3,Gummy,3: Medium (like a milkshake),"Chocolate, Dryfruits, Mango, Oats, Berries, Pina Colada, Banana, Oregano, Fruity, Green veggies",250-300 INR,Likely
+Under 18,Kochi,Savoury,9,1,2,Thick,5: Very thick (like a frozen smoothie you eat with a spoon),"Berries, Dryfruits, Pina Colada, Green veggies, Coffee, Fruity, Mango, Banana",250-300 INR,Very Likely
+26-35,Indore,Sweet,9,8,5,Thick,4: Thick (like yogurt),"Mango, Banana, Berries, Green veggies",300-350 INR,Very Unlikely
+46-55,Kolkata,Savoury,8,2,4,Thick,2: Thin (like fruit juice),"Fruity, Pina Colada, Oregano, Banana, Coffee, Mango, Dryfruits, Chocolate, Berries",150-200 INR,Neutral
+46-55,Pune,Sweet,7,7,1,Smooth,3: Medium (like a milkshake),"Oats, Oregano, Chocolate, Green veggies, Mango, Pina Colada, Banana, Berries",350-400 INR,Neutral
+36-45,Ahmedabad,Savoury,1,3,3,Smooth,4: Thick (like yogurt),"Banana, Dryfruits, Oats, Fruity, Pina Colada",150-200 INR,Neutral
+18-25,Delhi,Savoury,1,5,5,Gummy,3: Medium (like a milkshake),"Chocolate, Dryfruits, Oats, Banana, Coffee, Fruity, Oregano, Pina Colada, Green veggies",250-300 INR,Very Unlikely
+56 and above,Kochi,Savoury,3,8,1,Gummy,4: Thick (like yogurt),Banana,250-300 INR,Very Unlikely
+18-25,Kanpur,Savoury,9,2,1,Grainy,4: Thick (like yogurt),"Green veggies, Fruity, Coffee, Banana",200-250 INR,Very Unlikely
+36-45,Ahmedabad,Savoury,3,4,1,Smooth,3: Medium (like a milkshake),"Green veggies, Coffee",200-250 INR,Very Likely
+18-25,Hyderabad,Sweet,6,3,3,Gummy,2: Thin (like fruit juice),"Oregano, Oats, Green veggies, Berries, Fruity",150-200 INR,Neutral
+36-45,Patna,Sweet,10,8,1,Smooth,2: Thin (like fruit juice),"Green veggies, Oats, Fruity",150-200 INR,Likely
+18-25,Chandigarh,Sweet,10,1,2,Thick,1: Very thin (like water),"Banana, Mango",300-350 INR,Very Unlikely
+46-55,Chennai,Savoury,3,4,4,Grainy,1: Very thin (like water),Dryfruits,350-400 INR,Likely
+26-35,Kolkata,Sweet,10,10,1,Grainy,1: Very thin (like water),"Oregano, Mango, Fruity, Pina Colada, Dryfruits, Coffee, Banana, Chocolate",250-300 INR,Very Unlikely
+56 and above,Surat,Savoury,1,2,3,Thick,2: Thin (like fruit juice),"Coffee, Green veggies, Oregano, Banana, Pina Colada, Chocolate, Fruity, Dryfruits, Mango",250-300 INR,Very Likely
+56 and above,Jodhpur,Sweet,10,1,3,Smooth,5: Very thick (like a frozen smoothie you eat with a spoon),"Oregano, Chocolate, Oats",150-200 INR,Very Likely
+Under 18,Jaipur,Savoury,4,7,1,Thick,1: Very thin (like water),"Oregano, Coffee, Chocolate, Pina Colada, Banana, Mango, Green veggies",200-250 INR,Unlikely
+18-25,Chennai,Sweet,7,3,3,Thick,3: Medium (like a milkshake),"Coffee, Chocolate, Green veggies, Oregano, Dryfruits, Berries, Oats, Pina Colada, Banana, Fruity",350-400 INR,Neutral
+Under 18,Nashik,Sweet,3,7,1,Grainy,1: Very thin (like water),"Chocolate, Banana, Pina Colada, Berries",300-350 INR,Likely
+18-25,Patna,Sweet,2,9,2,Gummy,1: Very thin (like water),"Chocolate, Pina Colada, Banana, Oregano, Coffee, Green veggies, Berries",250-300 INR,Very Unlikely
+56 and above,Baroda,Savoury,7,3,1,Gummy,4: Thick (like yogurt),"Coffee, Berries, Pina Colada, Chocolate, Oregano, Green veggies, Mango, Banana",200-250 INR,Neutral
+36-45,Lucknow,Savoury,2,4,1,Thick,3: Medium (like a milkshake),"Pina Colada, Banana, Dryfruits",150-200 INR,Neutral
+56 and above,Pune,Sweet,3,1,5,Thick,1: Very thin (like water),"Pina Colada, Berries, Mango, Chocolate, Oregano",200-250 INR,Likely
+18-25,Bangalore,Sweet,8,1,2,Thick,4: Thick (like yogurt),Oats,350-400 INR,Very Unlikely
+18-25,Chennai,Savoury,10,5,2,Thick,2: Thin (like fruit juice),"Green veggies, Oats, Fruity, Pina Colada, Banana, Dryfruits, Mango, Oregano, Berries, Chocolate",350-400 INR,Very Likely
+56 and above,Mumbai,Sweet,2,9,4,Thick,2: Thin (like fruit juice),"Berries, Oats, Banana, Fruity, Coffee, Chocolate, Mango, Green veggies, Pina Colada",200-250 INR,Neutral
+46-55,Hyderabad,Sweet,1,10,4,Grainy,2: Thin (like fruit juice),"Coffee, Pina Colada",300-350 INR,Very Likely
+36-45,Patna,Sweet,5,1,1,Gummy,5: Very thick (like a frozen smoothie you eat with a spoon),"Chocolate, Fruity",150-200 INR,Neutral
+26-35,Kolkata,Sweet,3,6,5,Gummy,4: Thick (like yogurt),"Dryfruits, Pina Colada, Coffee, Oregano, Mango, Berries, Green veggies, Banana, Oats, Fruity",200-250 INR,Very Likely
+56 and above,Delhi,Savoury,3,3,4,Smooth,2: Thin (like fruit juice),"Dryfruits, Berries, Banana, Green veggies, Oats, Fruity",200-250 INR,Neutral
+46-55,Kolkata,Sweet,8,9,4,Smooth,3: Medium (like a milkshake),"Mango, Dryfruits, Banana, Green veggies",200-250 INR,Likely
+26-35,Ahmedabad,Savoury,7,10,2,Grainy,4: Thick (like yogurt),"Berries, Mango, Coffee, Fruity, Chocolate",200-250 INR,Neutral
+36-45,Chennai,Sweet,3,2,2,Thick,3: Medium (like a milkshake),"Oats, Coffee, Green veggies, Oregano, Fruity, Berries, Chocolate",200-250 INR,Neutral
+36-45,Kolkata,Savoury,5,8,4,Thick,4: Thick (like yogurt),"Chocolate, Mango, Berries",150-200 INR,Likely
+26-35,Ahmedabad,Savoury,1,6,1,Grainy,4: Thick (like yogurt),"Pina Colada, Mango, Oregano, Dryfruits, Oats, Banana, Coffee",150-200 INR,Very Likely
+18-25,Chandigarh,Sweet,8,4,2,Thick,2: Thin (like fruit juice),"Dryfruits, Coffee, Oregano, Berries, Green veggies",150-200 INR,Very Unlikely
+46-55,Jodhpur,Savoury,10,1,2,Gummy,5: Very thick (like a frozen smoothie you eat with a spoon),"Oats, Chocolate, Green veggies, Mango, Coffee, Berries, Dryfruits, Oregano, Fruity, Banana, Pina Colada",300-350 INR,Likely
+18-25,Jodhpur,Sweet,5,1,2,Thick,5: Very thick (like a frozen smoothie you eat with a spoon),"Pina Colada, Oats",250-300 INR,Very Likely
+26-35,Lucknow,Sweet,5,5,2,Thick,4: Thick (like yogurt),"Oats, Chocolate, Oregano, Banana",250-300 INR,Unlikely
+26-35,Chandigarh,Sweet,7,5,5,Smooth,3: Medium (like a milkshake),Mango,200-250 INR,Likely
+26-35,Baroda,Sweet,3,3,2,Smooth,5: Very thick (like a frozen smoothie you eat with a spoon),"Fruity, Coffee, Pina Colada, Oregano, Berries",150-200 INR,Neutral
+36-45,Indore,Savoury,10,7,4,Thick,3: Medium (like a milkshake),"Banana, Berries, Oregano, Dryfruits, Coffee, Green veggies, Fruity",300-350 INR,Very Unlikely
+26-35,Jodhpur,Sweet,2,5,4,Grainy,1: Very thin (like water),"Pina Colada, Fruity, Oats, Chocolate, Green veggies, Berries, Oregano, Coffee, Banana, Dryfruits, Mango",350-400 INR,Very Likely
+36-45,Chennai,Sweet,4,9,3,Gummy,4: Thick (like yogurt),"Oats, Green veggies, Banana",150-200 INR,Very Likely
+56 and above,Bangalore,Sweet,3,10,3,Thick,3: Medium (like a milkshake),"Mango, Oats, Dryfruits, Fruity, Banana",250-300 INR,Unlikely
+18-25,Chandigarh,Sweet,10,9,5,Smooth,2: Thin (like fruit juice),"Mango, Banana, Fruity, Pina Colada, Berries, Coffee, Oregano, Green veggies",300-350 INR,Likely
+56 and above,Hyderabad,Sweet,1,3,1,Thick,3: Medium (like a milkshake),"Coffee, Dryfruits, Banana, Oats, Oregano, Mango, Fruity, Pina Colada",250-300 INR,Likely
+56 and above,Ahmedabad,Savoury,3,10,5,Grainy,1: Very thin (like water),"Dryfruits, Mango, Coffee, Pina Colada, Chocolate, Green veggies, Banana, Berries, Fruity, Oats, Oregano",150-200 INR,Neutral
+26-35,Pune,Sweet,10,7,2,Grainy,2: Thin (like fruit juice),"Banana, Dryfruits, Pina Colada, Coffee, Mango, Green veggies, Fruity",300-350 INR,Very Likely
+46-55,Nashik,Sweet,10,2,3,Smooth,4: Thick (like yogurt),"Mango, Oregano, Chocolate",300-350 INR,Very Likely
+36-45,Nashik,Savoury,8,3,3,Thick,5: Very thick (like a frozen smoothie you eat with a spoon),"Green veggies, Chocolate, Pina Colada, Berries, Mango, Fruity, Coffee",350-400 INR,Very Likely
+46-55,Lucknow,Savoury,5,4,1,Thick,3: Medium (like a milkshake),"Banana, Berries, Oats, Fruity",300-350 INR,Very Unlikely
+18-25,Kanpur,Sweet,6,1,1,Smooth,5: Very thick (like a frozen smoothie you eat with a spoon),"Berries, Banana, Fruity, Pina Colada, Green veggies, Oregano, Chocolate, Oats, Dryfruits, Mango, Coffee",200-250 INR,Very Unlikely
